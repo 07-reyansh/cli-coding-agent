@@ -2,7 +2,7 @@
 
 A powerful command-line interface (CLI) tool that leverages OpenAI's Models to assist with coding tasks directly from your terminal.
 
-https://github.com/user-attachments/assets/904eeead-fa7e-4bb0-8fa0-bbe60bc85344
+
 
 
 
